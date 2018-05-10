@@ -84,7 +84,7 @@ public class ExtentReports_BaseTest implements AutoConstant
 	}
 	@AfterClass
 	public void afterclass(){
-		driver.close();
+		driver.quit();
 	}
 	
 	
