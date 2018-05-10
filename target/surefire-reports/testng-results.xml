@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Titles are same]]>
+    </line>
+    <line>
+      <![CDATA[text IGNITE EvoKNIT Lo 2 Men's Running Shoes is present]]>
+    </line>
+    <line>
+      <![CDATA[Quantity one is present]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103433" started-at="2018-05-10T06:32:02Z" finished-at="2018-05-10T06:33:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103433" started-at="2018-05-10T06:32:02Z" finished-at="2018-05-10T06:33:45Z">
+      <class name="com.puma.script1.AddProductTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="init" is-config="true" duration-ms="235" started-at="2018-05-10T12:02:01Z" finished-at="2018-05-10T12:02:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="classTest()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="classTest" is-config="true" duration-ms="35473" started-at="2018-05-10T12:02:02Z" finished-at="2018-05-10T12:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTest -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="preCondition" is-config="true" duration-ms="0" started-at="2018-05-10T12:02:37Z" finished-at="2018-05-10T12:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.script1.AddProductTest.addProduct() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="addProduct()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="addProduct" duration-ms="67866" started-at="2018-05-10T12:02:37Z" finished-at="2018-05-10T12:03:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Titles are same]]>
+            </line>
+            <line>
+              <![CDATA[text IGNITE EvoKNIT Lo 2 Men's Running Shoes is present]]>
+            </line>
+            <line>
+              <![CDATA[Quantity one is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="postCondition" is-config="true" duration-ms="0" started-at="2018-05-10T12:03:45Z" finished-at="2018-05-10T12:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProduct status=SUCCESS method=AddProductTest.addProduct()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d] output=Titles are same]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.puma.script1.AddProductTest.addProduct() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="afterclass" is-config="true" duration-ms="47" started-at="2018-05-10T12:03:45Z" finished-at="2018-05-10T12:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.puma.script1.AddProductTest@6d00a15d]" name="end" is-config="true" duration-ms="516" started-at="2018-05-10T12:03:45Z" finished-at="2018-05-10T12:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.puma.script1.AddProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

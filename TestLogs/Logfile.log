@@ -1,0 +1,19 @@
+2018-05-10 12:02:37  [com.puma.script1.AddProductTest] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-05-10 12:02:37  [com.puma.script1.AddProductTest] (main:) TEST Has Started
+2018-05-10 12:02:37  [com.puma.script1.AddProductTest] (main:) Retrieving title and matching with expected title
+2018-05-10 12:03:27  [com.puma.script1.AddProductTest] (main:)  Mouse hover action done on Men
+2018-05-10 12:03:27  [com.puma.script1.AddProductTest] (main:) Clicked on Shoes
+2018-05-10 12:03:27  [com.puma.script1.AddProductTest] (main:) Clicked on Running shoes
+2018-05-10 12:03:27  [com.puma.script1.AddProductTest] (main:) Clicked on second Shoes from list
+2018-05-10 12:03:27  [com.puma.script1.AddProductTest] (main:) Switching tabs
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Clicking on Size
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Select the size
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Clicked on add to cart
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Wait untill page title matches
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Text matched
+2018-05-10 12:03:45  [com.puma.script1.AddProductTest] (main:) Quantity one is present
+2018-05-10 12:03:45  [freemarker.cache] (main:) Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-05-10 12:03:45  [freemarker.cache] (main:) TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-05-10 12:03:45  [freemarker.cache] (main:) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-10 12:03:45  [freemarker.cache] (main:) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-10 12:03:45  [freemarker.cache] (main:) Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/TYSS/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
